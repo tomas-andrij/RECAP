@@ -1,0 +1,32 @@
+# Build / Vivado
+build/
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# Simulation junk
+sim/simu/
+*.wdb
+*.vcd
+*.pb
+*.lpr
+*.sdb
+*.psdb
+*.rlx
+*.dbg
+
+# Xilinx
+.Xil/
+
+# Editor
+.vscode/
+
+# Temp
+*~
+*.swp
