@@ -1,4 +1,13 @@
 //================================================================================================
+// Copyright (c) 2026 Tomas Andrijasevic
+
+// This source code is provided for viewing and educational purposes only.
+
+// You may not copy, modify, distribute, sublicense, or use this code
+// for commercial purposes without explicit permission from the author.
+//================================================================================================
+
+//================================================================================================
 // Project     : RECAP
 // Module      : phy_bfm
 // Author      : Tomas Andrijasevic

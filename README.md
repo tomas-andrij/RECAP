@@ -193,7 +193,7 @@ Planned enhancements include:
 
 ## License
 
-(TBD)
+Source-available for educational purposes only. Not for reuse or distribution.
 
 ---
 
