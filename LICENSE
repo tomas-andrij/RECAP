@@ -1,0 +1,14 @@
+Copyright (c) 2026 Tomas Andrijasevic
+
+All rights reserved.
+
+This repository contains original RECAP framework code and third-party components.
+
+Original RECAP source code:
+This code is provided for viewing and educational purposes only.
+You may not copy, modify, distribute, sublicense, or use this code,
+in whole or in part, without prior written permission from the author.
+
+Third-party components:
+Code located under rtl/vendor/ is subject to its original licenses
+and copyright holders.
